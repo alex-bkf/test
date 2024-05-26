@@ -25,5 +25,3 @@ if fl:
     print('No')
 else:
     print('Ok')
-
-
