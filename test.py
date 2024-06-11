@@ -1,4 +1,4 @@
 
-print(0.4 / 16 * 256)
-print(5 ** 5)
-print(4 * 3)
+a = 'D:\Skillbox\Git\AIPAOSIDF'
+res = a.replace('\\', '/')
+print(res)
