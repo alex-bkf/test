@@ -4,7 +4,6 @@ res = a.replace('\\', '/')
 print(res)
 print(5 ** 5)
 
-print something new
+# some code
+# new code
 
-print('dflksjd')
-print('test stash')
